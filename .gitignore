@@ -19,7 +19,8 @@
 
 # production
 /build
-
+#package-lock
+package-lock.json
 # misc
 .DS_Store
 *.pem
